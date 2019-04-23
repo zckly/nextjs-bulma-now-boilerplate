@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "name": "heatseeker",
+    "builds": [
+        { "src": "package.json", "use": "@now/static-build" }
+    ],
+    "alias": "heatseeker.now.sh"
+}
